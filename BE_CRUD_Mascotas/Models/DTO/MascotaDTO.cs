@@ -5,13 +5,18 @@ namespace BE_CRUD_Mascotas.Models.DTO
     public class MascotaDTO
     {
         [Key]
-        public int Id { get; set; }
+        public int Cedula { get; set; }
         public string Nombre { get; set; }
-        public int Edad { get; set; }
-        public string Raza { get; set; }
-        public string Color { get; set; }
-        public int Peso { get; set; }
+        public int Apellido { get; set; }
+        public string Cargo { get; set; }
+        public string Empresa { get; set; }
+        public DateTime Fecha_Ingreso { get; set; }
+        public string Genero { get; set; }
+        public string Eps { get; set; }
+        public string Arl { get; set; }
+        public int Celular { get; set; }
+        public DateTime FechaCreacion { get; set; }
 
-       // public DateTime FechaCreacion { get; set; }
+        // public DateTime FechaCreacion { get; set; }
     }
 }
