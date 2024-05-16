@@ -4099,11 +4099,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\Proyectos_API\\Angular\\BE_CRUD_Mascotas\\BE_CRUD_Mascotas\\BE_CRUD_Mascotas.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\Proyectos_API\\Angular\\APP Allied\\BE_CRUD_Mascotas\\BE_CRUD_Mascotas\\BE_CRUD_Mascotas.csproj",
       "projectName": "BE_CRUD_Mascotas",
-      "projectPath": "C:\\Users\\User\\Desktop\\Proyectos_API\\Angular\\BE_CRUD_Mascotas\\BE_CRUD_Mascotas\\BE_CRUD_Mascotas.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\Proyectos_API\\Angular\\APP Allied\\BE_CRUD_Mascotas\\BE_CRUD_Mascotas\\BE_CRUD_Mascotas.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\Proyectos_API\\Angular\\BE_CRUD_Mascotas\\BE_CRUD_Mascotas\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\Proyectos_API\\Angular\\APP Allied\\BE_CRUD_Mascotas\\BE_CRUD_Mascotas\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

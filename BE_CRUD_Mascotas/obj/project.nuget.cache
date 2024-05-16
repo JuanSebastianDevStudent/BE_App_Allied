@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Yg/cFMGQ9w2/0Pn+drdw3DmpNwLmSRBxWm/K86lGs3N5eNHcB9F34vgups13JJKeCMpCBOcuWPJXauZCpEIW7g==",
+  "dgSpecHash": "DVnu9pcmVqO3yIlZbveyFWJ6syJ62QNDXpNWtsgDRxan7dDANEodFozuP4xLrrd79OaGABpEzW43UNmkgvxpBw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\Desktop\\Proyectos_API\\Angular\\BE_CRUD_Mascotas\\BE_CRUD_Mascotas\\BE_CRUD_Mascotas.csproj",
+  "projectFilePath": "C:\\Users\\User\\Desktop\\Proyectos_API\\Angular\\APP Allied\\BE_CRUD_Mascotas\\BE_CRUD_Mascotas\\BE_CRUD_Mascotas.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
